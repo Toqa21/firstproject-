@@ -1,4 +1,4 @@
-# Diamond-Price-Prediction-
+# Diamond-Price-Prediction
 Diamond Price Prediction is a linear regression problem predict the market price in US dollars of a diamond by using the data-set I have (the price depended on the diamond features). Diamond Price Prediction
 
 Framing the Problem The diamond is very rare precious stone and therefore Diamonds are considered to be Very Costly. Some big company need to know the updated market price (in US dollars) of any diamond it sells. This is a classic regression (i.e., evaluation) problem, in which I need to collect the relevant data, build a useful model and estimate the expected error. So, I need to build a model which predicts the market price in US dollars of a diamond by using the data-set I have (the price depended on the diamond features). Have a high-accuracy with smallest mean square error is our goal.
